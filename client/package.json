@@ -1,3 +1,10 @@
-"scripts": {
-  "build:client": "vite build"
+{
+  "name": "client",
+  "version": "1.0.0",
+  "scripts": {
+    "build:client": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
 }
